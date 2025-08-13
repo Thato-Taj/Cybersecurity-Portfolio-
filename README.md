@@ -18,7 +18,7 @@ This portfolio showcases my projects, labs, and tools that demonstrate my skills
 ## 🎓 Education
 
 - **BSc Computer Science**, University of the Witwatersrand (Wits)  
-  *2022 – Present*  
+  *2022 – Present*  *(Witsie for life")*
   Focus Areas: Cybersecurity, Networking, Software Development
 
 ---
