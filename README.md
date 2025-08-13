@@ -26,7 +26,7 @@ This portfolio showcases my projects, labs, and tools that demonstrate my skills
 
 ## 📂 Featured Projects
 
-### 1. [Port Scanner](Scripts-and-Tools/port_scanner.py)
+### 1. [Port Scanner](Scripts-and-Tools/Port-Scanner)
 A multi-threaded TCP port scanner with service detection.  
 Features:
 - Scans multiple ports concurrently
