@@ -19,6 +19,7 @@ This portfolio showcases my projects, labs, and tools that demonstrate my skills
 
 - **BSc Computer Science**, University of the Witwatersrand (Wits)  
   *2022 – Present*
+  
   Focus Areas: Cybersecurity, Networking, Software Development
 
 ---
