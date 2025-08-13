@@ -68,7 +68,7 @@ Features:
 
 ## 📫 Contact
 
-- 📧 Email: **you@example.com**
+- 📧 Email: **thato.chuene03@gmail.com**
 - 🔗 LinkedIn: **[linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)**
 - 🐙 GitHub: **[github.com/yourusername](https://github.com/yourusername)**
 
