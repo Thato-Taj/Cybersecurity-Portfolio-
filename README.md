@@ -1,6 +1,6 @@
 # 🛡️ Cybersecurity Portfolio
 
-Hi, I'm **[Your Name]** — an aspiring cybersecurity professional passionate about **penetration testing**, **SOC analysis**, and **digital forensics**.  
+Hi, I'm **Thato Japie Chuene** — an aspiring cybersecurity professional passionate about **penetration testing**, **SOC analysis**, and **digital forensics**.  
 This portfolio showcases my projects, labs, and tools that demonstrate my skills in ethical hacking and information security.
 
 ---
@@ -18,7 +18,7 @@ This portfolio showcases my projects, labs, and tools that demonstrate my skills
 ## 🎓 Education
 
 - **BSc Computer Science**, University of the Witwatersrand (Wits)  
-  *2023 – Present*  
+  *2022 – Present*  
   Focus Areas: Cybersecurity, Networking, Software Development
 
 ---
