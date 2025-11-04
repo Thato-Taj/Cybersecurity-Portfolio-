@@ -14,5 +14,5 @@ Includes banner grabbing for identifying running services.
 ## Usage
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/cybersecurity-portfolio.git
+   git clone https://github.com/Thato-Taj/cybersecurity-portfolio.git
 
