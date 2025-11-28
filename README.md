@@ -58,7 +58,7 @@ Features:
 ---
 
 ## 🎯 Career Interests
-
+-Penetration testing
 - Security Operations Center (SOC) Analyst
 - Security Architect
 - Security Analyst
